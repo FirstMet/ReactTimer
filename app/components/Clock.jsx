@@ -37,7 +37,7 @@ Clock.defaultProps = {
 };
 
 Clock.propTypes = {
-  name: React.PropTypes.number
+    totalSeconds: React.PropTypes.number
 };
 
 export default Clock;
