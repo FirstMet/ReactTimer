@@ -8,7 +8,6 @@ import Timer from 'app/components/Timer';
 import Countdown from 'app/components/Countdown';
 
 // Load foundation
-require('style!css!foundation-sites/dist/foundation.min.css');
 $(document).foundation();
 
 // App css
